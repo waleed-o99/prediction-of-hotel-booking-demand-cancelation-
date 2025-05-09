@@ -1,1 +1,1 @@
-# prediction-of-hotel-booking-demand-cancelation-
+# prediction-of-hotel-booking-demand-cancelation
